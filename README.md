@@ -2,9 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=HelloWorld&height=180&color=FFD6E1&fontSize=40&fontColor=FFB3C7&animation=twinkling)
   
-  ####  :wave: Welcome my github profile !
+  #### :wave: Welcome my github profile !
 
-  # 박희진 *Park Hee Jin*
+  # 박희진 *Park Hee Jin*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"> 
 
 
 👩‍💻 **Frontend Developer** :  <span animation=fadeIn>오늘보다 내일 더 성장하기 위해 노력하는 개발자가 되겠습니다</span> <br> <br>
@@ -26,3 +26,4 @@
 ![hihijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihijin&show_icons=true&theme=transparent)
  
 </div>
+
