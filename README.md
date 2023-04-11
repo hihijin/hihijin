@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=HelloWorld&height=180&color=FFD6E1&fontSize=40&fontColor=FFB3C7&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&height=180&color=FFD6E1&fontSize=40&fontColor=FFB3C7&animation=twinkling)
   
   #### :wave: Welcome my github profile !
 
@@ -26,4 +26,3 @@
 ![hihijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihijin&show_icons=true&theme=transparent)
  
 </div>
-
