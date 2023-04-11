@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hihijin/hihijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=HelloWorld&height=200&color=FFD6E1&fontSize=50&fontColor=FCC7D5&animation=twinkling)
+  
+</div>
