@@ -7,7 +7,7 @@
   # 박희진 *Park Hee Jin*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"> 
 
 
-👩‍💻 **Frontend Developer** :  <span animation=fadeIn>오늘보다 내일 더 성장하기 위해 노력하는 개발자가 되겠습니다</span> <br> <br>
+👩‍💻 **Frontend Developer** <br/><br/>
 👩‍🎓 Educated: [SEB_FE_43_codestates](https://github.com/codestates-seb) [2022.12.15-2023.06.08] 
   
   <br>
